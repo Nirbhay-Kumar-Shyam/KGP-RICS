@@ -1,0 +1,15 @@
+# Output products list for <datamem>
+datamem/blk_mem_gen_v7_3_readme.txt
+datamem/doc/blk_mem_gen_v7_3_vinfo.html
+datamem/doc/pg058-blk-mem-gen.pdf
+datamem.asy
+datamem.gise
+datamem.ngc
+datamem.sym
+datamem.v
+datamem.veo
+datamem.xco
+datamem.xise
+datamem_flist.txt
+datamem_xmdf.tcl
+summary.log

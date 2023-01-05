@@ -1,0 +1,4 @@
+verilog isim_temp "Program_counter.v"
+verilog isim_temp "branching_mechanism.v"
+verilog isim_temp "RISC_KGP.v"
+verilog isim_temp "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

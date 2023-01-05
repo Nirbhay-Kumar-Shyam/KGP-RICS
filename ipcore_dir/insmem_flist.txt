@@ -1,0 +1,17 @@
+# Output products list for <insmem>
+_xmsgs/pn_parser.xmsgs
+insmem/blk_mem_gen_v7_3_readme.txt
+insmem/doc/blk_mem_gen_v7_3_vinfo.html
+insmem/doc/pg058-blk-mem-gen.pdf
+insmem.asy
+insmem.gise
+insmem.mif
+insmem.ngc
+insmem.sym
+insmem.v
+insmem.veo
+insmem.xco
+insmem.xise
+insmem_flist.txt
+insmem_xmdf.tcl
+summary.log

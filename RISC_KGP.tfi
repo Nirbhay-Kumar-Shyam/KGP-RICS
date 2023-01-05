@@ -1,0 +1,11 @@
+
+
+
+// Instantiate the module
+RISC_KGP instance_name (
+    .clk(clk), 
+    .rst(rst), 
+    .retReg(retReg)
+    );
+
+
