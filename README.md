@@ -1,1 +1,1 @@
-# KGP-RICS Processor
+# KGPMiniRICS Processor
